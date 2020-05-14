@@ -37,5 +37,5 @@ Each component has a readme detailing their individual uses, and what styling va
 
 ## Links
 
-[Github](https://github.com/Linkcube/svelte-preview-card)
-[NPM](https://www.npmjs.com/package/svelte-preview-card)
+[Github](https://github.com/Linkcube/svelte-components)
+[NPM](https://www.npmjs.com/package/linkcube-svelte-components)
