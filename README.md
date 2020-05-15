@@ -12,7 +12,7 @@ Going with the :root route, all of these components use the following css variab
 | --primary-color        | lightblue     |
 | --secondary-color      | lightgray     |
 | --background-color     | white         |
-| --priamry-text-color   | black         |
+| --primary-text-color   | black         |
 | --secondary-text-color | grey          |
 | --highlight-color      | yellow        |
 | --focus-color          | white         |

@@ -28,6 +28,8 @@
         border-radius: 5px;
         width: var(--width);
         resize: var(--resize);
+        color: var(--primary-text-color, black);
+        background: var(--background-color, white);
     }
 
     .form-field {

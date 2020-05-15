@@ -59,7 +59,9 @@
     select {
         margin: 8px;
         height: 40px;
-        color: black;
+        color: var(--primary-text-color, black);
+        background: var(--background-color, white);
+        background-image: none;
         box-sizing: border-box;
         margin: 0;
         border-radius: 5px;
@@ -81,9 +83,7 @@
     }
     
     select:focus {
-        color: var(--primary-color, #3c8bff);
         transition-duration: 400ms;
-        color: #222;
         outline: none;
         border-color: var(--primary-color, #3c8bff);
     }

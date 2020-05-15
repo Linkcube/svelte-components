@@ -35,6 +35,8 @@
         height: 40px;
         border-radius: 5px;
         width: 250px;
+        color: var(--primary-text-color, black);
+        background: var(--background-color, white);
     }
 
     .form-field {
