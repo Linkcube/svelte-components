@@ -103,6 +103,7 @@
         user-select: none; /* Standard syntax */
         padding-top: 5px;
         padding-bottom: 5px;
+        width: 100%;
     }
 
     .control-times {
