@@ -24,9 +24,9 @@ Event | Description
 
 Param | Description | Type
 --- | --- | ---
-`background_source` | Source for the card's image, defaults to none | String
-`primary_text` `sub_text` | Displayed text values, if these are not used the image max-height is increased. | String
-`alt_text` | Alt text for the image | String
+`backgroundSource` | Source for the card's image, defaults to none | String
+`primaryText` `subText` | Displayed text values, if these are not used the image max-height is increased. | String
+`altText` | Alt text for the image | String
 `disabled` | Whether to disable the card from being clicked | Boolean
 
 ## Styling

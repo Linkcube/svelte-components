@@ -63,7 +63,7 @@
     }
 
     textarea:focus + .float-text {
-        color: #3c8bff;
+        color: var(--primary-color, #3c8bff);
         transform: scale(.75, .75) translate(-10px, -20px);
         transition-duration: 400ms;
         padding: 0% 5% 0%;
