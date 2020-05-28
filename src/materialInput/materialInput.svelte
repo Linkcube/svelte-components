@@ -37,6 +37,7 @@
         width: 250px;
         color: var(--primary-text-color, black);
         background: var(--background-color, white);
+        border-color: var(--secondary-color, lightgray);
     }
 
     .form-field {
